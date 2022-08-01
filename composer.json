@@ -1,0 +1,12 @@
+{
+  "type": "project",
+  "config": {
+    "vendor-dir": "content/vendor"
+  },
+  "extra": {
+    "wordpress-install-dir": "wp"
+  },
+  "require": {
+    "johnpbloch/wordpress": ">=5.1"
+  }
+}
